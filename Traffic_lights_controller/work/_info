@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs
+vcounter
+Z0 !s110 1720961899
+!i10b 1
+!s100 c8F19dn[NDXbm95^]9=Fg0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5dbjCh>KZgj1PZZGMhm:i1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/Traffic_lights_controller
+Z4 w1720960134
+Z5 8C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Traffic_light_controller.v
+Z6 FC:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Traffic_light_controller.v
+!i122 5
+L0 25 47
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1720961899.000000
+!s107 C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Traffic_light_controller.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Traffic_light_controller.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vside
+R0
+!i10b 1
+!s100 =PfjX;2R=z3OF6obhf_ZF1
+R1
+I:<n[FNoT:2`BCTd_=97X32
+R2
+R3
+R4
+R5
+R6
+!i122 5
+L0 74 40
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Traffic_light_controller.v|
+R9
+!i113 1
+R10
+R11
+vTop_module
+R0
+!i10b 1
+!s100 XW0D8Hc[fKPJD>1I6k6Sa3
+R1
+Io@8IJFj3iD`DYC2T_EBA93
+R2
+R3
+R4
+R5
+R6
+!i122 5
+Z13 L0 1 21
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@top_module
+vtop_module_tb
+R0
+!i10b 1
+!s100 NPRjceDPZOfb^95QZU@7Y3
+R1
+I`7NlKhJHA_?f^6i7m_PSj2
+R2
+R3
+w1720958737
+8C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Controller_tb.v
+FC:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Controller_tb.v
+!i122 4
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\tania\Desktop\vlsi\4583-Verilog_labs\Verilog_labs\projects\Traffic_lights_controller\Controller_tb.v|
+!i113 1
+R10
+R11

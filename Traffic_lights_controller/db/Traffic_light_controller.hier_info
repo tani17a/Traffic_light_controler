@@ -1,0 +1,80 @@
+|Top_module
+T1 => T1.IN1
+T2 => T2.IN1
+T3 => T3.IN1
+T4 => T4.IN1
+clk => clk.IN2
+reset => reset.IN2
+Ri[0] <= Ri[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Ri[1] <= Ri[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Ri[2] <= Ri[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Ri[3] <= Ri[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Oi[0] <= Oi.DB_MAX_OUTPUT_PORT_TYPE
+Oi[1] <= Oi.DB_MAX_OUTPUT_PORT_TYPE
+Oi[2] <= Oi.DB_MAX_OUTPUT_PORT_TYPE
+Oi[3] <= Oi.DB_MAX_OUTPUT_PORT_TYPE
+Gi[0] <= Gi.DB_MAX_OUTPUT_PORT_TYPE
+Gi[1] <= Gi.DB_MAX_OUTPUT_PORT_TYPE
+Gi[2] <= Gi.DB_MAX_OUTPUT_PORT_TYPE
+Gi[3] <= Gi.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Top_module|counter:count
+T => count.OUTPUTSELECT
+T => count.OUTPUTSELECT
+T => count.OUTPUTSELECT
+T => count.OUTPUTSELECT
+T => count.OUTPUTSELECT
+T => count.OUTPUTSELECT
+T => state.OUTPUTSELECT
+T => state.OUTPUTSELECT
+T => state.OUTPUTSELECT
+clk => count[0].CLK
+clk => count[1].CLK
+clk => count[2].CLK
+clk => count[3].CLK
+clk => count[4].CLK
+clk => count[5].CLK
+clk => state~1.DATAIN
+reset => count[0].ACLR
+reset => count[1].ACLR
+reset => count[2].PRESET
+reset => count[3].PRESET
+reset => count[4].PRESET
+reset => count[5].PRESET
+reset => state~3.DATAIN
+R <= R.DB_MAX_OUTPUT_PORT_TYPE
+G <= G.DB_MAX_OUTPUT_PORT_TYPE
+O <= O.DB_MAX_OUTPUT_PORT_TYPE
+next <= next.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Top_module|side:direction
+T1 => next_state.DATAB
+T1 => next_state.DATAB
+T2 => next_state.DATAB
+T2 => next_state.DATAB
+T3 => next_state.DATAB
+T3 => next_state.DATAB
+T4 => next_state.DATAB
+T4 => next_state.DATAB
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => next_state.OUTPUTSELECT
+Next => Selector0.IN1
+Next => Selector1.IN1
+Next => Selector2.IN1
+Next => Selector3.IN1
+reset => state~3.DATAIN
+clk => state~1.DATAIN
+Side[0] <= Side[0].DB_MAX_OUTPUT_PORT_TYPE
+Side[1] <= Side[1].DB_MAX_OUTPUT_PORT_TYPE
+Side[2] <= Side[2].DB_MAX_OUTPUT_PORT_TYPE
+Side[3] <= Side[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

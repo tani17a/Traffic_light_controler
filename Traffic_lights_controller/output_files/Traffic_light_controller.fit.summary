@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun Jul 14 18:37:43 2024
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Traffic_light_controller
+Top-level Entity Name : Top_module
+Family : MAX V
+Device : 5M80ZM68C4
+Timing Models : Final
+Total logic elements : 41 / 80 ( 51 % )
+Total pins : 18 / 52 ( 35 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

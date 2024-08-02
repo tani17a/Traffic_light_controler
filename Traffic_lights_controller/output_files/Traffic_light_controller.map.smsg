@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at Traffic_light_controller.v(30): always construct contains both blocking and non-blocking assignments File: C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/Traffic_lights_controller/Traffic_light_controller.v Line: 30
